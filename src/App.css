@@ -1,0 +1,22 @@
+.infoPanel{
+  background-color: #f8b368;
+  text-align: center;
+}
+.subInfoPanel{
+  border: 1px solid #f8b368;
+}
+.nav-link.active{
+  color: #fa8c16 !important;
+}
+.brandLogo{
+  color: #fa8c16;
+  font-size: 22px;
+  font-weight: 600;
+  margin-right: 50px;
+}
+.brandLogo{
+  color: #fa8c16;
+  font-size: "20px";
+  font-weight: 600;
+  margin-right: 50px;
+}
